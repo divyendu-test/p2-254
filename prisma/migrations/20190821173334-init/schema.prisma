@@ -1,0 +1,608 @@
+datasource postgres {
+    provider = "postgresql"
+    url      = "postgresql://root:prisma@localhost:5432/p2_254_divy?schema=public"
+}
+
+generator photon {
+    provider = "photonjs"
+}
+
+model User0 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User1 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User2 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User3 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User4 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User5 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User6 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User7 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User8 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User9 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User10 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User11 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User12 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User13 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User14 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User15 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User16 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User17 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User18 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User19 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User20 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User21 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User22 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User23 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User24 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User25 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User26 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User27 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User28 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User29 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User30 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User31 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User32 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User33 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User34 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User35 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User36 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User37 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User38 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User39 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User40 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User41 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User42 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User43 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User44 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User45 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User46 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User47 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User48 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User49 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User50 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User51 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User52 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User53 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User54 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User55 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User56 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User57 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User58 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User59 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User60 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User61 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User62 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User63 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User64 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User65 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User66 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User67 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User68 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User69 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User70 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User71 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User72 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User73 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User74 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User75 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User76 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User77 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User78 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User79 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User80 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User81 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User82 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User83 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User84 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User85 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User86 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User87 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User88 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User89 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User90 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User91 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User92 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User93 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User94 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User95 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User96 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User97 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User98 {
+    id   Int    @id
+    name String
+    age  Int
+}
+
+model User99 {
+    id   Int    @id
+    name String
+    age  Int
+}
