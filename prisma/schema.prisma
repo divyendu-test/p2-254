@@ -7,10 +7,6 @@ generator photon {
     provider = "photonjs"
 }
 
-generator nexus_prisma {
-    provider = "nexus-prisma"
-}
-
 model User0 {
     id Int @id
     name String

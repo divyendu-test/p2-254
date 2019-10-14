@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-prisma2@^2.0.0-preview-7:
-  version "2.0.0-preview-7"
-  resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-2.0.0-preview-7.tgz#b12e4d3d801099fce96f3719f938e690e19def0a"
-  integrity sha512-wUcFypCfr7pnAeP5V/Tz9REeWCL1XTAKsVXm2cJl/jXj+XdbWxNKLybKFxgCasM91XLSRKLG5EibkIP2lZitVA==
+prisma2@^2.0.0-preview014:
+  version "2.0.0-preview014"
+  resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-2.0.0-preview014.tgz#4ab92914112bb77e4a07c7c44d33e23dac98a8af"
+  integrity sha512-3VTaU83AgTz8/wq3Z+98CyhCW2cVfJEWARom6WpaCmHICv80bnVcjoEFsCly7jU8iHJU+EU8ryY8iver/msFCg==

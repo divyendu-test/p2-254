@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "prisma2": "^2.0.0-preview-7"
+    "prisma2": "^2.0.0-preview014"
   }
 }
